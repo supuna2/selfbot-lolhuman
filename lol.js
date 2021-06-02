@@ -36,7 +36,7 @@ const vcard = 'BEGIN:VCARD\n'  // Jan diubah,Ntar Error
             + 'TEL;type=CELL;type=VOICE;waid=6282158549899:+6282158549899\n'  // Ganti jadi nomormu, tapi jangan ubah polanya
             + 'END:VCARD' // Jan diubah,Ntar Error
 //Setingan
-apikey = 'AkiraYT' 
+apikey = 'e4945f87ee4a7132b9c531fb' 
 prefix = 'x' 
 owner = '6282158549899' 
 cr = 'Selfbot Lol-Human By Akira'
